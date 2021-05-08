@@ -1,0 +1,21 @@
+HTML LINK
+
+Html link is tag used to create hyperlink on web page
+
+Syantax
+<a href="url">link text/image</a>
+
+attribute
+href => to define link's destination
+target => to define where is the destination link opened
+
+href value
+"absolute link" => target link is absolute link like "google.com", "facebook.com" etc
+"relative link" target link is relative, like "html/latihan1.html"
+"mailto: ...." => to send an email to .... address
+"#..." to part / section in te same document.
+etc
+
+target value
+"_self" => default, Opens the document in the same window/tab as it was clicked
+"_blank" Opens the document in the new window/tab
